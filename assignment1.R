@@ -7,7 +7,7 @@
 
 # ~/workspace/school/d710/assignments/ds710fall2016assignment1$ R
 # 
-# R version 3.3.1 (2016-06-21) -- "Bug in Your Hair"
+# R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
 # Copyright (C) 2016 The R Foundation for Statistical Computing
 # Platform: x86_64-pc-linux-gnu (64-bit)
 
